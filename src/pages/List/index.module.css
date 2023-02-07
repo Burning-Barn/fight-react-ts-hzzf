@@ -1,0 +1,35 @@
+.loading {
+    /* margin: 20px 0;
+    margin-bottom: 20px; */
+    padding: 30px 167px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+}
+
+.searchHeader {
+    position: static !important;
+    background-color: #ccc;
+}
+
+.classNameSwiper {
+    position: static;
+    background-color: #ccc;
+    width: 100%;
+    height: 45px;
+    
+    padding: 5px 0;
+}
+
+.navHeader {
+    display: flex;
+    height: 45px;
+}
+
+.navback {
+    padding: 15px 9px;
+}
+/* 房屋列表样式 */
+.houseItems {
+    padding: 0 15px;
+  }
